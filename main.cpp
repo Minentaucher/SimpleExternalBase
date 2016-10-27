@@ -14,7 +14,7 @@ Module Client;
 
 int main()
 {
-	SetConsoleTitle("ExternalBase by reaLD");
+	SetConsoleTitle("ExternalBase by Minentaucher");
 	
 	//too lazy to add any checks :P do it yourself.
 	Mem.Attach("csgo.exe");
